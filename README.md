@@ -1,3 +1,6 @@
+Forked from https://github.com/hilja/file-batcher
+All issues should be reported there.
+
 # File Batcher
 
 A tool to batch process large quantities of files asynchronously. It provides you some convenient tools to edit Front Matter fueled Markdown files (the stuff that most static site generators use). But is not limited to any specific filetype or format.
